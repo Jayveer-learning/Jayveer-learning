@@ -42,20 +42,15 @@ I’m passionate about building **scalable, responsive web applications** and cr
 
 Here are a few of my recent projects:
 
-- **[Project Name 1](link)**: Description of project, what it does, and technologies used.
-- **[Project Name 2](link)**: Description of project, what it does, and technologies used.
-- **[Project Name 3](link)**: Description of project, what it does, and technologies used.
-
-Feel free to explore these projects and check out the source code!
+- **[Course Platform](link)**: A dynamic course platform built with **JavaScript**, **Django**, and **Tailwind CSS**. This advanced project helps me sharpen my Django skills, featuring course creation, management, and user authentication.
+  
+Feel free to explore this project and check out the source code!
 
 ---
 
 ## 📫 **How to Reach Me**
 
-- 📧 Email: jayveer@example.com  
-- 🐦 Twitter: [@JayVeerDev](https://twitter.com/JayVeerDev)  
-- 🌐 Personal Website: [jayveer.dev](https://jayveer.dev)  
-- 💬 LinkedIn: [Jay Veer](https://linkedin.com/in/jayveer)
+- 📧 Email: [jayveeronpath@gmail.com](mailto:jayveeronpath@gmail.com)
 
 ---
 
@@ -89,4 +84,5 @@ I also like experimenting with **AI & Automation**! Whether it's writing code to
 ---
 
 Feel free to fork, contribute to, or star any of my repositories. Let’s build something awesome together! 🚀
+
 
