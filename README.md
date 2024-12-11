@@ -8,6 +8,8 @@ I’m passionate about building **scalable, responsive web applications** and cr
 
 ## 🔧 **Technologies & Tools**
 
+**End of this year**
+
 **Frontend**:  
 - HTML, CSS, JavaScript  
 - React, Next.js  
