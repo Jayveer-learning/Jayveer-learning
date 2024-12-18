@@ -1,5 +1,4 @@
-# 👋 Hi there! I'm Jay Veer
-
+# 👋 Hi there! I'm Jay Veer aka J haimer
 Welcome to my GitHub! I'm a **Full Stack Developer** and a **Python Enthusiast** with over 9 months of hands-on experience in web development (MERN stack) and 1+ year of Python experience.
 
 I’m passionate about building **scalable, responsive web applications** and creating **data-driven projects**. I love exploring new technologies, learning new frameworks, and sharing my knowledge with the community.
