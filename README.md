@@ -64,7 +64,7 @@ Let’s create something amazing!
 
 ## 📊 **GitHub Stats**
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayveer-learning_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayveer-learning&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
