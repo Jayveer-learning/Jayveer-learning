@@ -64,7 +64,8 @@ Let’s create something amazing!
 
 ## 📊 **GitHub Stats**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jayveer-learning&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Jayveer-learning&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ---
 
