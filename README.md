@@ -62,12 +62,6 @@ Let’s create something amazing!
 
 ---
 
-## 📊 **GitHub Stats**
-
-[https://github-readme-streak-stats.herokuapp.com/?user=Jayveer-learning]()
-
----
-
 ## 🌱 **My Future spirit**
 
 I’m always learning and improving my skills. Here are a few things I’m currently focused on:
