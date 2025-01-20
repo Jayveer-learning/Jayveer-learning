@@ -64,11 +64,11 @@ Let’s create something amazing!
 
 ## 📊 **GitHub Stats**
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayveer&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayveer-learning_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
 ---
 
-## 🌱 **What I’m Learning**
+## 🌱 **My Future spirit**
 
 I’m always learning and improving my skills. Here are a few things I’m currently focused on:
 
