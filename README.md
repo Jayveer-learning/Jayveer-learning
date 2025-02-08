@@ -43,7 +43,7 @@ I’m passionate about building **scalable, responsive web applications** and cr
 
 Here are a few of my recent projects:
 
-- **[Course Platform](link)**: A dynamic course platform built with **JavaScript**, **Django**, and **Tailwind CSS**. This advanced project helps me sharpen my Django skills, featuring course creation, management, and user authentication.
+- **[Course Platform](https://github.com/Jayveer-learning/course-platform)**: A dynamic course platform built with **JavaScript**, **Django**, and **Tailwind CSS**. This advanced project helps me sharpen my Django skills, featuring course creation, management, and user authentication.
   
 Feel free to explore this project and check out the source code!
 
